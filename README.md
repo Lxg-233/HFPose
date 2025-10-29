@@ -62,4 +62,13 @@ Our code is extended from the following repositories. We thank the authors for r
 
 - [ST-GCN](https://github.com/vanoracai/Exploiting-Spatial-temporal-Relationships-for-3D-Pose-Estimation-via-Graph-Convolutional-Networks)
 - [VideoPose3D](https://github.com/facebookresearch/VideoPose3D)
-- [HTNet](
+## Acknowledgement
+
+
+
+Our code is extended from the following repositories. We thank the authors for releasing the codes.
+
+- [ST-GCN](https://github.com/vanoracai/Exploiting-Spatial-temporal-Relationships-for-3D-Pose-Estimation-via-Graph-Convolutional-Networks)
+- [MHFormer](https://github.com/Vegetebird/MHFormer)
+- [VideoPose3D](https://github.com/facebookresearch/VideoPose3D)
+- [HTNet](https://github.com/vefalun/HTNet/tree/main)
