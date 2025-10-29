@@ -49,3 +49,17 @@ python main.py --train -n 'name'
 
 
 To begin, download the YOLOv3 and HRNet pretrained models [here](https://drive.google.com/drive/folders/1LX5zhZGlZjckgfpNroWsuu84xyyFYE5X) and put it in the './demo/lib/checkpoint' directory. Next, download the [pretrained model](https://drive.google.com/file/d/154CXOJZpQ3Ed1HV41JvBFa2NhJKPv17R/view?usp=sharing) and put it in the './ckpt/pretrained' directory. Lastly, Put your own images in the './demo/figure', and run:
+
+```
+python demo/vis.py
+```
+
+## Acknowledgement
+
+
+
+Our code is extended from the following repositories. We thank the authors for releasing the codes.
+
+- [ST-GCN](https://github.com/vanoracai/Exploiting-Spatial-temporal-Relationships-for-3D-Pose-Estimation-via-Graph-Convolutional-Networks)
+- [VideoPose3D](https://github.com/facebookresearch/VideoPose3D)
+- [HTNet](
