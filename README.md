@@ -1,4 +1,4 @@
-# HFPose: Hierarchical Masking and Global-Local Fusion for 3D Human Pose Estimation
+# [AIHCIR 2025]HFPose: Hierarchical Masking and Global-Local Fusion for 3D Human Pose Estimation
 <img width="7796" height="2144" alt="MTG-第 8 页" src="https://github.com/user-attachments/assets/75a31c9e-1505-44c1-930b-5ffd382067f2" />
 
 
